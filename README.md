@@ -18,6 +18,7 @@ Click on **Currnet File** in the menu and select **Edit configuration**. Once op
 <img src='./J2.png'>
 
 **More information about Jetty:** [Maven Jetty information1 ](https://cwiki.apache.org/confluence/display/WICKET/Maven+Jetty+plugin)
+
 **More information about Jetty:** [Maven Jetty information2 ](https://maven.apache.org/plugins/maven-war-plugin/examples/rapid-testing-jetty6-plugin.html)
 
 # helpful links with more information
